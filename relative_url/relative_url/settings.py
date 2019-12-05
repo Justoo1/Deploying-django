@@ -26,7 +26,7 @@ SECRET_KEY = '*1k(=x0!^vtj14s-)j6b0p#)9e_$$%+ss4^#-kid!hwwh7#r!4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','justice1.pythonanywhere.com']
+ALLOWED_HOSTS = ['justice1.pythonanywhere.com']
 
 
 # Application definition
